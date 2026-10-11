@@ -40,7 +40,7 @@ Computer Science student from Mardan, Pakistan, who loves building things with P
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad-ahmad404&theme=react-dark&hide_border=true&bg_color=0d1117&color=D55FDE&line=D55FDE&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/D55FDE/fahad-ahmad404" alt="Contribution Graph" />
 </p>
 
 ## 🚀 Featured Projects
@@ -53,6 +53,17 @@ Computer Science student from Mardan, Pakistan, who loves building things with P
 | [Task Automation](https://github.com/fahad-ahmad404/CodeAlpha_TaskAutomation) | Extracts and de-duplicates email addresses from text files using regex | Python |
 | [Stock Portfolio Tracker](https://github.com/fahad-ahmad404/CodeAlpha_StockPortfolioTracker) | Calculates total investment value from stock quantities | Python |
 | [Hangman Game](https://github.com/fahad-ahmad404/CodeAlpha_Hangman_Game) | Console-based word guessing game | Python |
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-fahad--ahmad404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahad-ahmad404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-ahmad-a7453335b)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24mdbcs552@uetmardan.edu.pk)
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
+
 
 ## 🤝 Connect With Me
 
