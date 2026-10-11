@@ -65,12 +65,3 @@ Computer Science student from Mardan, Pakistan, who loves building things with P
 <p align="center">⭐ Thanks for visiting my profile!</p>
 
 
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-fahad--ahmad404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahad-ahmad404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-ahmad-a7453335b)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24mdbcs552@uetmardan.edu.pk)
-
----
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
